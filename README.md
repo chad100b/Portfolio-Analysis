@@ -26,11 +26,11 @@ I calculated standard deviation (daily & annualized) of each portfolio to determ
 I calculated and plotted both the daily returns and cumulative returns. Below is the chart highlighting the cumulative returns for all portfolios, to include the Custom Portfolio. As presented in the chart, the Algorithmic 1 and Berkshire Hathaway portfolios outperformed the S&O 500. All other porfolios underperformed,
 with respect to the S&P 500.
 
-![](Combined_Portfolio_Sharpe_Ratios.png)
+![](Portfolio_Cumulative_Returns.png)
 
 Another visably representative understanding of a Portfolio compared to a benchmark is using Sharpe Ratios. These ratios help determine risk versus return. As you can see, Algo 1 and the Custom Portfolio 
 
-![](Portfolio_Cumulative_Returns.png)
+![](Combined_Portfolio_Sharpe_Ratios.png)
 
 In summary, with respects to return, volatility and and risk (Sharpe Ratios), how did each of the porfolios, to include the Custom Portfolio, fare within each of themselves and against the industry benchmark, the S&P 500.
 1. Return on investment - When looking at the cumulative return on investment, the Algo 1 portfolio performed the best followed by the Custom Portfolio and Berkshire Hathaway. All three outperforming the S&P 500 index. All other portfolios underperformed related to the S&P 500.
